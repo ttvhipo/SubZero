@@ -1,0 +1,11 @@
+body {
+    overflow: hidden;
+}
+.coin {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/833/833472.png');
+    background-size: cover;
+    pointer-events: none;
+}
